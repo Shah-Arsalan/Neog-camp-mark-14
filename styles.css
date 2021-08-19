@@ -1,0 +1,48 @@
+.container{
+    margin: auto;
+    display: flex;
+    flex-direction:column;
+    width: 50vw;
+}
+
+#initial-price{
+max-width: 60%;
+padding: 1rem;
+border: solid black;
+border-radius: 1rem;
+
+}
+
+#current-price{
+    max-width: 60%;
+    padding: 1rem;
+    border: solid black;
+border-radius: 1rem;
+
+}
+
+#quantity{
+    max-width: 60%;
+    padding: 1rem;
+    border: solid black;
+border-radius: 1rem;
+
+}
+
+#check{
+max-width: 40%;
+margin-top: 1rem;
+margin-bottom: 1rem;
+padding: 1rem;
+border: solid black;
+border-radius: 1rem;
+}
+
+#output{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+body{
+    background-color: darkslategrey;
+}
